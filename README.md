@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Zander Miller
 
-# Your Github username
+# pugsoldier931-afk
